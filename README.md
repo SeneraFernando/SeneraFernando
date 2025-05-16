@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Senera Fernando
 
--🎓 I’m a third-year undergraduate at **SLIIT**, pursuing a BSc (Hons) in Information Technology, specializing in Information Technology.  
+🎓 I’m a third-year undergraduate at **SLIIT**, pursuing a BSc (Hons) in Information Technology, specializing in Information Technology.  
 💻 I’m passionate about **web development** and **software quality assurance**, and I enjoy building full-stack applications and ensuring they work perfectly.
 
 ---
